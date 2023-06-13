@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-GC
-Will Smith
+GC UoM
+Will Smith University of Life
 
 #Introduction
 We present smoke and fire collected in our studies.
