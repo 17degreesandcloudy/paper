@@ -23,3 +23,6 @@ The model is detailed in Smith et al. 2002
 
 # Results
 The simulations indicate that the more fuel is on the fire the more smoke is made
+
+# Figures
+Figures go here in this document
