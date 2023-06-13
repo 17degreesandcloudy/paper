@@ -1,8 +1,9 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 
 # Author
 GC
+Will Smith
 
 #Introduction
 We present smoke and fire collected in our studies.
