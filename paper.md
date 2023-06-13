@@ -26,3 +26,6 @@ The simulations indicate that the more fuel is on the fire the more smoke is mad
 
 # Figures
 Figures go here in this document
+
+#Conclusions
+We have discovered the origins of fire and the relation to smoke production. 
