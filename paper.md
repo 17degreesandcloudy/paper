@@ -13,3 +13,6 @@ Smoke was collected using a large glass jar (Bloggs et al.)
 Lee et al (2001) conducted several studies in this region but continent scale measurements have not previously been made.
 
 We enjoy field work and being in the outdoors
+
+# Simulations
+we simulate the amount of smoke made during different sized fires
