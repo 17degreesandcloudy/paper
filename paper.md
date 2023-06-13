@@ -20,3 +20,6 @@ we simulate the amount of smoke made during different sized fires
 # Methods
 We compared our smoke measurements with model simulation .
 The model is detailed in Smith et al. 2002
+
+# Results
+The simulations indicate that the more fuel is on the fire the more smoke is made
