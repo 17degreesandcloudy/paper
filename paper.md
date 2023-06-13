@@ -16,3 +16,7 @@ We enjoy field work and being in the outdoors
 
 # Simulations
 we simulate the amount of smoke made during different sized fires
+
+# Methods
+We compared our smoke measurements with model simulation .
+The model is detailed in Smith et al. 2002
